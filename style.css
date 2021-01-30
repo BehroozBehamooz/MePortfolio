@@ -1,0 +1,126 @@
+div,section{
+    margin: 10px auto;
+    width: 60%;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #80b4d3;
+    /*background-color: #6f00ff;*/
+    border: 1px solid #80b4d3;
+}
+header hr{
+    margin: auto;
+    width: 50%;
+}
+footer hr{
+    margin: auto;
+    width: 70%;
+    border: 1px yellow solid;
+}
+section{
+    border: #46465a solid 2px;
+}
+header div{
+    width: auto;
+    background-color:black;
+    width: 60%;
+}
+h1{
+    font-family: "Lucida Calligraphy", Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: white ;
+    padding: 20px;
+    font-weight: bold;
+    width: 60%;
+    margin: auto;
+    
+    /*border-radius: 20px;*/
+    /*border:black solid 1px;*/
+}
+img{
+    border:#46465a solid 2px;
+    border-radius: 20px;
+    margin: auto;
+}
+header p{
+    font-family: "Lucida Calligraphy", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 20px auto 20px;
+    color: white ;
+    width: 55%;
+}
+body{
+    background-color: white ;
+}
+img{
+    margin: 50px auto 5px;
+    padding: 10px;
+}
+main img{
+    width: 30%;
+}
+main>div>p{
+    font-family: cursive, serif, Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: #292935 ;
+    margin: 10px auto;
+    margin: 0 auto 50px;
+}
+section p{
+    font-family: cursive, serif, Arial;
+}
+
+a:link{
+    color: #3bbde9;
+    
+    
+}
+a:visited{
+    color: #8a8a8f;
+    font-style: italic;
+}
+a:hover {
+    color: rgb(248, 204, 7);
+    font-weight: bold;
+}
+a:active{
+    color: white;
+}
+
+ol{
+    text-align: center;
+    /*align-items: center;*/
+    /*align-content: center;*/
+    padding: 10px 20px;
+    /*border: 2px solid red;*/
+    width: 100px;
+    margin: auto;
+    /*border: blue solid 2px;*/
+    width : 30%;
+    
+}
+
+footer div{
+    background-color: rgb(10, 10, 10);
+    color: rgb(245, 243, 117);
+}
+
+li{
+    /*margin: auto;*/
+    /*border: blue solid 2px;*/
+    text-align: left;
+    font-family: cursive, serif, Arial;
+    /*width: 100%;*/
+}
+
+h3{
+    color: #46465a;
+    
+}
+
+h4{
+    width: 80%;
+    text-align: center;
+    /*border: 2px solid white;*/
+    margin: 15px auto;
+}
